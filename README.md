@@ -1,8 +1,9 @@
 
 <a href="https://minecraft-heads.com"><img width="468" height="60" alt="minecraft-heads_fullbanner_468x60" src="https://github.com/user-attachments/assets/5ddc7a9a-6bcc-4a20-987a-c92a080e6ff0" /></a>
+</br>Thanks to <a href="https://minecraft-heads.com">Minecraft-heads.com</a> for their API!!! :3
 
 # DFHeadsMenu
-a Diamondfire chunk o' code using the minecraft-heads API
+a Diamondfire chunk o' code using the minecraft-heads API</br>
 Yes, I know a very impressive site.
 </br>
 # HOW TO SETUP
